@@ -1,0 +1,24 @@
+{
+  "name": "tessel-hackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "accel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhoscar1/tessel-hackathon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhoscar1/tessel-hackathon/issues"
+  },
+  "homepage": "https://github.com/jhoscar1/tessel-hackathon#readme",
+  "dependencies": {
+    "accel-mma84": "^0.2.4",
+    "tessel-av": "^0.16.4"
+  }
+}
